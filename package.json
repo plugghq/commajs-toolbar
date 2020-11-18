@@ -1,0 +1,30 @@
+{
+  "name": "commajs-toolbar",
+  "version": "1.0.1",
+  "description": "Commajs - The WYSIWYG framework -  toolbar plugin",
+  "main": "dist/commajs-toolbar.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugghq/commajs-toolbar.git"
+  },
+  "keywords": [
+    "wysiwyg",
+    "html",
+    "CommaJS",
+    "rich editor",
+    "editor",
+    "text",
+    "javascript",
+    "vanillajs",
+    "commajs-wysiwyg",
+    "rich editor",
+    "rich text editor",
+    "rte"
+  ],
+  "author": "Luca Rondanini",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/plugghq/commajs-toolbar/issues"
+  },
+  "homepage": "https://www.commajs.com"
+}
