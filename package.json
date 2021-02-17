@@ -1,6 +1,6 @@
 {
   "name": "commajs-toolbar",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "Commajs - The WYSIWYG framework -  toolbar plugin",
   "main": "dist/commajs-toolbar.min.js",
   "repository": {
